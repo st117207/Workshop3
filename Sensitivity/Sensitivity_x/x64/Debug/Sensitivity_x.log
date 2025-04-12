@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_x\Source.cpp(17,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_x\Source.cpp(26,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_x\Source.cpp(35,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_x\Source.cpp(41,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_x\Source.cpp(42,13): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_x\Source.cpp(62,29): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_x\Source.cpp(64,23): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+  Sensitivity_x.vcxproj -> C:\Users\belob\Workshop3\Sensitivity\x64\Debug\Sensitivity_x.exe

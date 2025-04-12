@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_max\Source.cpp(17,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_max\Source.cpp(26,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_max\Source.cpp(35,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_max\Source.cpp(36,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_max\Source.cpp(55,29): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+C:\Users\belob\Workshop3\Sensitivity\Sensitivity_max\Source.cpp(57,23): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+  Sensitivity_max.vcxproj -> C:\Users\belob\Workshop3\Sensitivity\x64\Debug\Sensitivity_max.exe
